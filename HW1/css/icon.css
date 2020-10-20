@@ -1,0 +1,169 @@
+.circle {
+    width: 62px;
+    height: 62px;
+    border-radius: 50%;
+    display: inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #808080;
+}
+
+.rounded-rectangle {
+    border-radius: 15px;
+    display: inline-block;
+    border: 3px solid #808080;
+    width: 62px;
+    height: 62px;
+}
+
+
+
+.i {
+    width: 500px;
+    height: 500px;
+    background-image: url(../img/icon-list.png);
+}
+
+.i-person {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -40px -40px;
+
+}
+
+.i-phone {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -160px -40px;
+
+}
+
+.i-message {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -278px -40px;
+
+}
+
+.i-clock {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: 103.5px -40px;
+
+}
+
+.i-music {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -40px -158px;
+
+}
+
+.i-photo {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -160px -158px;
+
+}
+
+.i-photocamera {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -278px -158px;
+
+}
+
+.i-videocamera {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: 103.5px -158px;
+
+}
+
+.i-webcam {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -40px -278px;
+
+}
+
+.i-microphone {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -160px -278px;
+
+}
+
+.i-trashcan {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -278px -278px;
+
+}
+
+.i-find {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: 103.5px -278px;
+
+}
+
+.i-location {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -40px 102px;
+
+}
+
+.i-setting {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -160px 102px;
+
+}
+
+.i-speaker {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: -278px 102px;
+
+}
+
+.i-note {
+
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    background-position: 103px 102px;
+
+}
