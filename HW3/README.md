@@ -2,11 +2,11 @@ B07701152 工管三 張宇文
 
 template reference: https://templated.co/monochromed
 
+github 連結：
+
 希望透過這次的作業可以清楚地了解我，也希望網頁的設計是簡單易讀
 
 額外功能:
-
-
 	1.我在每個頁面的最下面都有contact me的部分，分別會連結到我的社群軟體和帳號，還多加了英文的pdf履歷讓人們查看。
 	2.contact的履歷是練習了另外一個模板，有能更清楚的資訊
 心得:
